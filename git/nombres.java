@@ -6,7 +6,12 @@ public class nombres {
 	public static void main(String[] args) {
 		try (
 		Scanner sc = new Scanner(System.in)) {
-			System.out.println("Landy");
+			System.out.println("Landy"
+					+ "Alba"
+					+ "Hendrick"
+					+ "Carlos"
+					+ "Nallely"
+					+ "Yazmín");
 		}
 	}
 }
